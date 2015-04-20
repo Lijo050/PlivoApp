@@ -8,4 +8,6 @@ Following points are considered by default in this app and has to be changed acc
 4. The phone numbers must be verified in https://manage.plivo.com/sandbox-numbers/create/ 
 
 #Clone this repo
+```
 $ git clone git@github.com:Lijo050/PlivoApp.git
+```
