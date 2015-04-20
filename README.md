@@ -1,5 +1,5 @@
 #PlivoApp
-PlivoApp is an Android application written in android-studio to call a number and play the message "Welcome to the Jungle!".
+PlivoApp is an Android application written in android-studio to call a number and play the message "Welcome to the Jungle!" using Plivo HTTP API.
 
 Following points are considered by default in this app and has to be changed accordingly for user requirements:
 
